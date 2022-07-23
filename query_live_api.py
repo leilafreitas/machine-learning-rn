@@ -26,7 +26,7 @@ music =  {
                 "time_signature":"1"
             }
 
-url = "https://ppgec-spotify-music.herokuapp.com"
+url = "https://ml-api-neural.herokuapp.com"
 
 response = requests.post(f"{url}/predict",
                          json=music)
