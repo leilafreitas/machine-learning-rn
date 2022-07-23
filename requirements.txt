@@ -8,3 +8,7 @@ uvicorn
 fastapi
 pydantic
 wandb
+keras
+os
+sys
+joblib
